@@ -4,11 +4,31 @@
 
 **Authors:** Benedicto Moses Miharja, Arnoldus Purbrayen Delasabetje
 
+**Repository:** https://github.com/[YOUR_USERNAME]/snn-residential-simulation
+
+---
+
+## Repository Status
+
+| Item | Status |
+|------|--------|
+| Code runnable | ✅ Yes |
+| Results fully reproducible | ✅ Yes (with fixed random seeds) |
+| Paper available | 🔗 [Link to paper] (add DOI or arXiv when available) |
+
 ---
 
 ## Quick Start
 
-### Install dependencies (one time):
+### 1. Requirements
+
+- **Python:** 3.9, 3.10, or 3.11
+- **Libraries:** numpy, matplotlib, scipy
+
+### 2. Install dependencies
+
+```bash
+pip install numpy matplotlib scipy
 
 ### Run simulation:
 
