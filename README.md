@@ -2,7 +2,7 @@
 
 **Paper:** Spiking Neural Networks for Adaptive Residential Systems: A Multi-Scale Conceptual Framework
 
-**Authors:** Benedicto Moses Miharja, Arnoldus Purbrayen Delasabetje
+**Authors:** Benedicto Moses Miharja, Arnoldus Purbrayen Delasabtejo
 
 ---
 
