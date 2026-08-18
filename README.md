@@ -25,17 +25,6 @@ Single file `code_snnforars.py` includes:
 
 ---
 
-## Expected Results (from paper)
-
-| Metric | Result (mean ± std) |
-|--------|---------------------|
-| Energy savings (micro) | 78.8% vs rule-based |
-| Peak reduction (micro) | 57.6% vs rule-based |
-| Violation rate (micro) | 6.8% |
-| Peak reduction (meso) | 20.6% |
-
----
-
 ## Notes
 
 The code runs out-of-the-box. Results vary slightly between runs due to random seeds (occupancy, building parameters, sensor noise).
